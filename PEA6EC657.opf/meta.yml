@@ -1,0 +1,26 @@
+id: PEA6EC657
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13369
+  instance_id: http://purl.bdrc.io/resource/IE3JT13369
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: None
+  title:
+    bo:
+    - ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག་གི་བཤད་སྦྱར་རྒྱལ་བའི་གན་མཛོད།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P825
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0769a8b6e06640c785e6a63467f5eef4:
+      title: ༄༅།་།ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག་གི་བཤད་སྦྱར་རྒྱལ་བའི་གན་མཛོད་
+      volume_number: 1
+      base_file: UT3JT13369_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VLD035D151EC82D7B1
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:20:10.535747'
+last_modified_at: '2021-12-31T08:20:10.535753'
